@@ -6,4 +6,4 @@ Application saves and analyses in real-time surrounding sound collected from a m
 ### Personal information we collect
 We do not collect any of Your personal data.
 ### Who we share your personal information with
-We may allow third parties to collect non-personal data through their own embedded technology. In order to deliver You ads, the third-party advertising companies may place or recognise an unique cookie or similar technology for non-personally identifiable information. For more information, please follow link, [AdMob](https://support.google.com/admob/answer/6128543?hl=en&ref_topic=2745287)
+We may allow third parties to collect non-personal data through their own embedded technology. In order to deliver You ads, the third-party advertising companies may place or recognise an unique cookie or similar technology for non-personally identifiable information. For more information, please follow link, [AdMob](https://support.google.com/admob/answer/6128543?hl=en&ref_topic=2745287).
