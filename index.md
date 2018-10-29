@@ -1,4 +1,4 @@
-# Mimidae
+# Mimidae (Przedrzeźniacz)
 ## Privacy Policy
 This privacy policy explains in detail what information Konrad Nowakowski (“we”, “us” or “our”) collects and how we use your personal information when you use the Application. We may update this policy at any time; please check back frequently to stay current. Your continued use of the Application indicates that you have read this Privacy Policy and that you accept its terms. You also give your express permission for us to use your information in accordance with this Privacy Policy.
 ### What is personal information and what is processing of personal information
